@@ -1,0 +1,102 @@
+C:\Users\Administrator\source\repos\wuxian\bin\Debug\wuxian.exe.config
+C:\Users\Administrator\source\repos\wuxian\bin\Debug\wuxian.exe
+C:\Users\Administrator\source\repos\wuxian\bin\Debug\wuxian.pdb
+C:\Users\Administrator\source\repos\wuxian\obj\Debug\wuxian.Form1.resources
+C:\Users\Administrator\source\repos\wuxian\obj\Debug\wuxian.Properties.Resources.resources
+C:\Users\Administrator\source\repos\wuxian\obj\Debug\wuxian.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\wuxian\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\wuxian\obj\Debug\wuxian.exe
+C:\Users\Administrator\source\repos\wuxian\obj\Debug\wuxian.pdb
+C:\Users\Administrator\source\repos\wuxian - 副本\bin\Debug\wuxian.exe.config
+C:\Users\Administrator\source\repos\wuxian - 副本\bin\Debug\wuxian.exe
+C:\Users\Administrator\source\repos\wuxian - 副本\bin\Debug\wuxian.pdb
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.Form1.resources
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.Properties.Resources.resources
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.exe
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.pdb
+C:\Users\Administrator\source\repos\wuxian - 副本\obj\Debug\wuxian.csproj.AssemblyReference.cache
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\bin\Debug\wuxian.exe.config
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\bin\Debug\wuxian.exe
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\bin\Debug\wuxian.pdb
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\obj\Debug\wuxian.Form1.resources
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\obj\Debug\wuxian.Properties.Resources.resources
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\obj\Debug\wuxian.csproj.GenerateResource.cache
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\obj\Debug\wuxian.exe
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian - 副本\obj\Debug\wuxian.pdb
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\bin\Debug\wuxian.exe.config
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\bin\Debug\wuxian.exe
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\bin\Debug\wuxian.pdb
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\obj\Debug\wuxian.Form1.resources
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\obj\Debug\wuxian.Properties.Resources.resources
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\obj\Debug\wuxian.csproj.GenerateResource.cache
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\obj\Debug\wuxian.exe
+D:\C#\HNI10KVPEIDIANSHI\wuxian\wuxian\obj\Debug\wuxian.pdb
+C:\Users\Administrator\Documents\wuxian\wuxian\bin\Debug\wuxian.exe.config
+C:\Users\Administrator\Documents\wuxian\wuxian\bin\Debug\wuxian.exe
+C:\Users\Administrator\Documents\wuxian\wuxian\bin\Debug\wuxian.pdb
+C:\Users\Administrator\Documents\wuxian\wuxian\obj\Debug\wuxian.Form1.resources
+C:\Users\Administrator\Documents\wuxian\wuxian\obj\Debug\wuxian.Properties.Resources.resources
+C:\Users\Administrator\Documents\wuxian\wuxian\obj\Debug\wuxian.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\wuxian\wuxian\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\wuxian\wuxian\obj\Debug\wuxian.exe
+C:\Users\Administrator\Documents\wuxian\wuxian\obj\Debug\wuxian.pdb
+D:\软件\C\wuxian1\wuxian\bin\Debug\wuxian.exe.config
+D:\软件\C\wuxian1\wuxian\bin\Debug\wuxian.exe
+D:\软件\C\wuxian1\wuxian\bin\Debug\wuxian.pdb
+D:\软件\C\wuxian1\wuxian\obj\Debug\wuxian.Form1.resources
+D:\软件\C\wuxian1\wuxian\obj\Debug\wuxian.Properties.Resources.resources
+D:\软件\C\wuxian1\wuxian\obj\Debug\wuxian.csproj.GenerateResource.cache
+D:\软件\C\wuxian1\wuxian\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+D:\软件\C\wuxian1\wuxian\obj\Debug\wuxian.exe
+D:\软件\C\wuxian1\wuxian\obj\Debug\wuxian.pdb
+D:\软件\C\wuxian-deepseek\wuxian\bin\Debug\wuxian.exe.config
+D:\软件\C\wuxian-deepseek\wuxian\bin\Debug\wuxian.exe
+D:\软件\C\wuxian-deepseek\wuxian\bin\Debug\wuxian.pdb
+D:\软件\C\wuxian-deepseek\wuxian\obj\Debug\wuxian.Form1.resources
+D:\软件\C\wuxian-deepseek\wuxian\obj\Debug\wuxian.Properties.Resources.resources
+D:\软件\C\wuxian-deepseek\wuxian\obj\Debug\wuxian.csproj.GenerateResource.cache
+D:\软件\C\wuxian-deepseek\wuxian\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+D:\软件\C\wuxian-deepseek\wuxian\obj\Debug\wuxian.exe
+D:\软件\C\wuxian-deepseek\wuxian\obj\Debug\wuxian.pdb
+D:\软件\C\wuxian-deepseek\wuxian-D\bin\Debug\wuxian.exe.config
+D:\软件\C\wuxian-deepseek\wuxian-D\bin\Debug\wuxian.exe
+D:\软件\C\wuxian-deepseek\wuxian-D\bin\Debug\wuxian.pdb
+D:\软件\C\wuxian-deepseek\wuxian-D\obj\Debug\wuxian.Form1.resources
+D:\软件\C\wuxian-deepseek\wuxian-D\obj\Debug\wuxian.Properties.Resources.resources
+D:\软件\C\wuxian-deepseek\wuxian-D\obj\Debug\wuxian.csproj.GenerateResource.cache
+D:\软件\C\wuxian-deepseek\wuxian-D\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+D:\软件\C\wuxian-deepseek\wuxian-D\obj\Debug\wuxian.exe
+D:\软件\C\wuxian-deepseek\wuxian-D\obj\Debug\wuxian.pdb
+C:\Users\Administrator\Desktop\wuxian-D\bin\Debug\wuxian.exe.config
+C:\Users\Administrator\Desktop\wuxian-D\bin\Debug\wuxian.exe
+C:\Users\Administrator\Desktop\wuxian-D\bin\Debug\wuxian.pdb
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.Form1.resources
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.exe
+C:\Users\Administrator\Desktop\wuxian-D\obj\Debug\wuxian.pdb
+C:\Users\Administrator\Desktop\wuxian-D2\bin\Debug\wuxian.exe.config
+C:\Users\Administrator\Desktop\wuxian-D2\bin\Debug\wuxian.exe
+C:\Users\Administrator\Desktop\wuxian-D2\bin\Debug\wuxian.pdb
+C:\Users\Administrator\Desktop\wuxian-D2\obj\Debug\wuxian.Form1.resources
+C:\Users\Administrator\Desktop\wuxian-D2\obj\Debug\wuxian.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wuxian-D2\obj\Debug\wuxian.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\wuxian-D2\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\wuxian-D2\obj\Debug\wuxian.exe
+C:\Users\Administrator\Desktop\wuxian-D2\obj\Debug\wuxian.pdb
+D:\sqlserver2025\wuxian-D3\bin\Debug\wuxian.exe.config
+D:\sqlserver2025\wuxian-D3\bin\Debug\wuxian.exe
+D:\sqlserver2025\wuxian-D3\bin\Debug\wuxian.pdb
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.Form1.resources
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.Properties.Resources.resources
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.csproj.GenerateResource.cache
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.csproj.CoreCompileInputs.cache
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.exe
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.pdb
+D:\sqlserver2025\wuxian-D3\obj\Debug\wuxian.csproj.AssemblyReference.cache
